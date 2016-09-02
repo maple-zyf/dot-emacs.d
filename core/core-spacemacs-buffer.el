@@ -14,7 +14,7 @@
 (defconst spacemacs-buffer-name "*spacemacs*"
   "The name of the spacemacs buffer.")
 
-(defconst spacemacs-buffer-logo-title "[S P A C E M A C S]"
+(defconst spacemacs-buffer-logo-title "[G N U | E M A C S]"
   "The title displayed beneath the logo.")
 
 (defconst spacemacs-buffer--banner-length 75
